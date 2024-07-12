@@ -1,6 +1,6 @@
 /* This looks like invasion lol - Ters */
 var app = new function() {
-    this.name = "OldChanic", this.version = "5", this.date = "2022", this.folder = "asset-v5/", this.looptime = 9600, this.bpm = 100, this.totalframe = 452, this.nbpolo = 7, this.nbloopbonus = 1, this.bonusloopA = !0, this.bonusendloopA = !1, this.recmaxloop = 92, this.recminloop = 3, this.recmintime = Math.round(this.looptime / 1e3) * this.recminloop, this.spritepolo = "polo-sprite.png", this.spritepicto = "game-picto.png", this.colBck = "#0a190f", this.col0 = "#6EB950", this.col1 = "#41A032", this.col2 = "#2D7D28", this.col3 = "#235023", this.col4 = "#14321E", this.animearray = [{
+    this.name = "OldChanic", this.version = "3", this.date = "2022", this.folder = "asset-v3/", this.looptime = 9600, this.bpm = 100, this.totalframe = 452, this.nbpolo = 7, this.nbloopbonus = 1, this.bonusloopA = !0, this.bonusendloopA = !1, this.recmaxloop = 92, this.recminloop = 3, this.recmintime = Math.round(this.looptime / 1e3) * this.recminloop, this.spritepolo = "polo-sprite.png", this.spritepicto = "game-picto.png", this.colBck = "#0a190f", this.col0 = "#6EB950", this.col1 = "#41A032", this.col2 = "#2D7D28", this.col3 = "#235023", this.col4 = "#14321E", this.animearray = [{
         name: "1_pump",
         color: "FAB405",
         uniqsnd: !0
